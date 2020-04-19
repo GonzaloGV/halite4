@@ -1,4 +1,5 @@
-kaggle_environments
+requests
 numpy
 scipy
+kaggle_environments
 ipython
